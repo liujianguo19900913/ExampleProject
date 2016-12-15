@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--高度dp:顶部title_bar-->
+    <dimen name="height_title_bar">45dp</dimen>
+    <!--高度dp:中间navigation_bar-->
+    <dimen name="height_navigation_bar">48dp</dimen>
+    <!--高度dp:底部action_bar-->
+    <dimen name="height_action_bar">45dp</dimen>
+
+
+    <!--常用字体大小-->
+    <dimen name="size_text_12">12sp</dimen>
+    <dimen name="size_text_14">14sp</dimen>
+    <dimen name="size_text_16">16sp</dimen>
+    <dimen name="size_text_18">18sp</dimen>
+    <dimen name="size_text_20">20sp</dimen>
+    <dimen name="size_text_34">34sp</dimen>
+</resources>

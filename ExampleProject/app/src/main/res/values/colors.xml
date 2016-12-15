@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--app 主题颜色-->
+    <color name="app_theme_color">#EE002A</color>
+    <!--**********************************************************-->
+    <!--app 按钮颜色：yellow点击-->
+    <color name="btn_color_press">#FFCC00</color>
+    <!--app 按钮颜色：yellow-->
+    <color name="btn_color_press_nol">#FFAA00</color>
+    <!--**********************************************************-->
+    <!--app 全局颜色：BLUE       #DD1AA7F2-->
+    <!--<color name="comm_color_green">#00aeef</color>-->
+    <color name="comm_color_green">#1AA7F2</color>
+    <!--app 全局颜色：BLUE点击-->
+    <color name="comm_color_green_press">#88CCFF</color>
+    <!--app 字体颜色：纯白-->
+    <color name="text_color_white_pure">#FFFFFF</color>
+    <!--app 字体主颜色：黑-->
+    <color name="text_color_black_norm">#555555</color>
+    <!--app 字体颜色：纯黑-->
+    <color name="text_color_black_pure">#000000</color>
+    <!--app 字体颜色：暗黑-->
+    <color name="text_color_black_jianan">#666666</color>
+    <!--app 字体颜色：暗灰黑-->
+    <color name="text_color_black_jiananan">#999999</color>
+    <!--app 线颜色：亮灰-->
+    <color name="line_color_gray">#DCDCDC</color>
+    <!--app 线颜色：分割线色-->
+    <color name="line_color_gray_jianan">#DBD6D6</color>
+    <!--loading的背景色-->
+    <color name="loading_bg_color">#80ffffff</color>
+    <!--橙红色线条-->
+    <color name="mao_line_color">#FB8119</color>
+    <!--地图导航栏颜色-->
+    <color name="map_linear_color">#66888888</color>
+    <color name="map_linear_color_pre">#99555555</color>
+
+    <color name="color_transparent_half">#50000000</color>
+</resources>
